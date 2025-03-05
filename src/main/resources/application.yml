@@ -1,1 +1,3 @@
-spring.application.name=msa-product
+spring:
+  application:
+  name: msa-order
